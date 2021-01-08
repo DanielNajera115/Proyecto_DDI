@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatsonUnitySDK", "WatsonUnitySDK.csproj", "{083c98ac-9aaf-8227-16fe-e533b470fdbc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBM.Cloud.SDK", "IBM.Cloud.SDK.csproj", "{75035eb8-6953-e28a-9f7a-73087214ae8a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBM.Watson.Tests", "IBM.Watson.Tests.csproj", "{03bac895-a3cc-4580-7d3e-388c11bf6c2f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBM.Cloud.SDK.Tests", "IBM.Cloud.SDK.Tests.csproj", "{6767cad5-68d4-58fb-87ed-00f6ab4124c5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{083c98ac-9aaf-8227-16fe-e533b470fdbc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083c98ac-9aaf-8227-16fe-e533b470fdbc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75035eb8-6953-e28a-9f7a-73087214ae8a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75035eb8-6953-e28a-9f7a-73087214ae8a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03bac895-a3cc-4580-7d3e-388c11bf6c2f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03bac895-a3cc-4580-7d3e-388c11bf6c2f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6767cad5-68d4-58fb-87ed-00f6ab4124c5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6767cad5-68d4-58fb-87ed-00f6ab4124c5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
